@@ -1,6 +1,6 @@
 					- 👋 Oba, eu sou @Samuk-cmd
 					- 👀 Criei a conta para compartilhar e salvar meus arquivos
-     					- 🌱 Estudando apenas python por enquanto
+     				- 🌱 Estudando apenas python por enquanto
 					
      
 		
